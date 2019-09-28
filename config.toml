@@ -1,0 +1,12 @@
+baseURL = "http://ucsbbridge.github.io/"
+languageCode = "en-us"
+title = "UCSB Bridge Club"
+theme = "ananke"
+
+[params]
+	title = "UCSB Bridge Club"
+	featured_image= "random_cards_1920x1080.jpg"
+
+
+
+
