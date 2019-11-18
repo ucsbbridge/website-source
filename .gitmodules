@@ -1,3 +1,13 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/zen"]
+	path = themes/zen
+	url = https://github.com/frjo/hugo-theme-zen.git
+[submodule "themes/cayman-hugo-theme"]
+	path = themes/cayman-hugo-theme
+	url = https://github.com/zwbetz-gh/cayman-hugo-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:ucsbbridge/ucsbbridge.github.io
+	branch = master

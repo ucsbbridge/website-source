@@ -1,12 +1,19 @@
 baseURL = "http://ucsbbridge.github.io/"
 languageCode = "en-us"
 title = "UCSB Bridge Club"
-theme = "ananke"
+theme="ananke"
+#theme = "zen"
+#theme="cayman-hugo-theme"
 
 [params]
 	title = "UCSB Bridge Club"
 	featured_image= "random_cards_1920x1080.jpg"
+#	image= "random_cards_1920x1080.jpg"
+	main_sections="news"
 
-
-
-
+[menu]
+	[[menu.main]]
+		identifier = "home"
+		name = "Home"
+		url = "/"
+		weight=-110
